@@ -9,6 +9,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alice-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-kassab-8428161b8)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alikassab155@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-1F7A4A?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201010044102)
 
 
 ---
