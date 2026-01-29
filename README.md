@@ -6,6 +6,7 @@
 
 ###  Backend Developer Java Spring | Node.js .  
 📍 Giza, Egypt | 📧 alikassab155@gmail.com | 📱 +021010044102  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alice-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-kassab-8428161b8)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alikassab155@gmail.com)
 
@@ -60,15 +61,16 @@ React, Next.js, HTML, CSS, Tailwind, Bootstrap, Mui, jQuery
 
 ---
 
-## 📊 GitHub Stats
+## 🌱 Currently Learning
 
 <p align="center">
-  <!-- GitHub Activity Stats -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ali-kassab&show_icons=true&count_private=true&theme=dark" />
-  
-  <!-- Top Languages -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-kassab&layout=compact&count_private=true&theme=dark" />
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="100" alt="learning gif"/>
 </p>
+
+- Advanced Java Spring Boot features  
+- Microservices architecture  
+- Cloud integrations and AWS automation
+
 
 
 ---
