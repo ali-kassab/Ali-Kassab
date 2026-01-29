@@ -1,81 +1,69 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200" alt="coding gif"/>
+</p>
+
 # 👋 Hi, I'm Ali Abdelaal Mohamed
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&width=435&lines=Backend+Developer+%7C+Java+Spring+%7C+Node.js)
-
+### Java Spring Backend Developer | Node.js Enthusiast  
 📍 Giza, Egypt | 📧 alikassab155@gmail.com | 📱 +021010044102  
 [LinkedIn](https://www.linkedin.com/in/ali-kassab-8428161b8) | [GitHub](https://github.com/ali-kassab)
 
 ---
 
 ## 🚀 About Me
-I am a **Backend Developer** with **1+ year experience** in Node.js projects for U.S. clients.  
-Now diving into **Java & Spring Boot**, I focus on building **clean, scalable, and secure backend systems**.  
-I love **problem-solving, clean architecture, and production-ready code**.
-
----
-
-## 💼 Work Experience
-
-### Backend Node.js Developer | DevGlobal LLC (Remote)  
-**July 2024 - December 2025**
-- 🏗 Built multi-tenant SaaS backend for **1,000+ tenants**  
-- ⚡ Delivered **50+ REST API endpoints** for a modular CRM  
-- ☁ Managed **AWS S3** with secure tenant isolation  
-- 🔒 Implemented **JWT + RBAC** for fast & secure access  
-- 💳 Integrated **Stripe**, **Twilio**, **Socket.io** for real-time services  
-- 🔧 Developed automation tools for database migrations & Twilio setup  
-
-**Notable Projects:**  
-- **Peterson Roofing**: Scheduling, service workflows, customer interactions  
-- **Team Management Platform**: Jira-like system with tasks, projects, and real-time notifications  
-
-### Backend Projects | Java Spring Boot
-- 🌐 Designed production-style RESTful APIs  
-- 📄 Built Posts & Comments system with Spring Security & JWT  
-- ⚙ Applied validation, exception handling & consistent API responses  
-- 🏗 Followed REST principles and best practices  
+I am a **professional Backend Developer** specializing in **Java Spring** and **Node.js**.  
+I build **robust, scalable, and production-ready backend systems** with clean architecture.  
+Passionate about **RESTful APIs, Microservices, Multi-Tenant Systems**, and **real-world problem solving**.  
+I love exploring **new technologies**, optimizing **system performance**, and writing code that lasts.
 
 ---
 
 ## 🛠️ Skills
 
-**Backend & Programming:**  
-Java, Spring, Spring Boot, Node.js, Express.js, NestJS, Bun, C++, JavaScript, TypeScript, OOP, SOLID, Design Patterns, Algorithms, Data Structures
+### 💻 Languages & Frameworks
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
-**Databases & Cloud:**  
-Microsoft SQL Server, MongoDB, AWS
+### 🗄️ Databases & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MS SQL](https://img.shields.io/badge/Microsoft_SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-**Web & Frontend:**  
-React, Next.js, HTML, CSS, SCSS, Tailwind, Bootstrap, Mui, jQuery
+### 🛠️ Tools & Practices
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+RESTful APIs | JWT & RBAC | Microservices | Modular Design | SOLID Principles | CI/CD
 
-**Tools & Practices:**  
-Git, GitHub Actions, ESLint, Prettier, Debugging, Modular Design, Microservices, Multi-Tenant Systems, RESTful API, Scalable Systems, Auth & Security, Auth0, OAuth 2.0, Stripe, Twilio, Socket.IO
-
-**AI & Productivity:**  
-ChatGPT, Claude, Cursor
-
----
-
-## 🎓 Education
-**Bachelor of Commerce**  
-Faculty of Commerce, Sohag University, Egypt (2016-2020)
-
----
-
-## 🏆 Certifications
-- Advanced Full-Stack Web Development | Route Academy
+### 🎨 Frontend Basics
+React, Next.js, HTML, CSS, Tailwind, Bootstrap, Mui, jQuery
 
 ---
 
-## 📂 GitHub Projects
-[Show My Source Code](https://github.com/ali-kassab)  
+## 💼 Featured Projects
+
+| Project | Description | Link |
+|--------|-------------|------|
+| **Multi-Tenant SaaS CRM** | Node.js backend for scalable SaaS CRM serving 1000+ tenants | [GitHub](https://github.com/ali-kassab) |
+| **Java Spring Posts System** | REST API with Spring Boot, JWT auth, layered architecture | [GitHub](https://github.com/ali-kassab) |
+| **Team Management Platform** | Jira-like app with tasks, projects, notifications | [GitHub](https://github.com/ali-kassab) |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ali-kassab&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-kassab&layout=compact&theme=radical" />
+</p>
 
 ---
 
 ## ✨ Fun Fact
-I enjoy turning **complex backend systems into simple, maintainable code** while staying updated with the **latest tech trends**.
-
----
+I turn **complex backend systems into simple, maintainable code**,  
+while continuously learning **new technologies** to keep improving my workflow.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ali-kassab&color=brightgreen" alt="Profile views" />
