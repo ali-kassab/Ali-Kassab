@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="12" viewBox="0 0 1200 12" role="img" aria-label="Section divider">
+  <defs>
+    <linearGradient id="base" x1="0" x2="1">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#334155"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" x2="1">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </linearGradient>
+    <style>
+      .shine { animation: move 6s ease-in-out infinite; }
+      @keyframes move { 0% { transform: translateX(-260px); } 100% { transform: translateX(1200px); } }
+      @media (prefers-reduced-motion: reduce) { .shine { animation: none; opacity: 0; } }
+    </style>
+  </defs>
+  <rect x="0" y="5" width="1200" height="2" rx="1" fill="url(#base)"/>
+  <rect class="shine" x="0" y="4.5" width="260" height="3" rx="1.5" fill="url(#shine)"/>
+  <circle cx="600" cy="6" r="3.5" fill="#0B1020" stroke="#22D3EE" stroke-width="1.5"/>
+</svg>
