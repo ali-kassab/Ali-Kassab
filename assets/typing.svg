@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="56" viewBox="0 0 900 56" role="img" aria-labelledby="t">
+  <title id="t">building REST APIs with Node.js, NestJS and Express · designing multi-tenant SaaS backends · shipping Java / Spring Boot and ASP.NET Core services · modelling data in PostgreSQL, SQL Server and MySQL</title>
+  <defs>
+    <style>
+      .mono { font-family: 'JetBrains Mono', 'Cascadia Code', SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace; }
+      .cur { animation: blink 1s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+      .v0 { animation: v0 18s infinite; } @keyframes v0 { 0% { opacity: 1; } 24.990% { opacity: 1; } 25.000% { opacity: 0; } 100% { opacity: 0; } }
+      .r0 { animation: r0 18s infinite; } @keyframes r0 { 0% { transform: translateX(0); } 0% { animation-timing-function: steps(51, end); } 12.750% { transform: translateX(581.4px); } 100% { transform: translateX(581.4px); } }
+      .v1 { animation: v1 18s infinite; } @keyframes v1 { 0% { opacity: 0; } 24.990% { opacity: 0; } 25.000% { opacity: 1; } 49.990% { opacity: 1; } 50.000% { opacity: 0; } 100% { opacity: 0; } }
+      .r1 { animation: r1 18s infinite; } @keyframes r1 { 0% { transform: translateX(0); } 25.000% { transform: translateX(0); animation-timing-function: steps(36, end); } 34.000% { transform: translateX(410.4px); } 100% { transform: translateX(410.4px); } }
+      .v2 { animation: v2 18s infinite; } @keyframes v2 { 0% { opacity: 0; } 49.990% { opacity: 0; } 50.000% { opacity: 1; } 74.990% { opacity: 1; } 75.000% { opacity: 0; } 100% { opacity: 0; } }
+      .r2 { animation: r2 18s infinite; } @keyframes r2 { 0% { transform: translateX(0); } 50.000% { transform: translateX(0); animation-timing-function: steps(53, end); } 63.250% { transform: translateX(604.2px); } 100% { transform: translateX(604.2px); } }
+      .v3 { animation: v3 18s infinite; } @keyframes v3 { 0% { opacity: 0; } 74.990% { opacity: 0; } 75.000% { opacity: 1; } 99.990% { opacity: 1; } 100.000% { opacity: 0; } 100% { opacity: 0; } }
+      .r3 { animation: r3 18s infinite; } @keyframes r3 { 0% { transform: translateX(0); } 75.000% { transform: translateX(0); animation-timing-function: steps(50, end); } 87.500% { transform: translateX(570.0px); } 100% { transform: translateX(570.0px); } }
+      @media (prefers-reduced-motion: reduce) {
+        * { animation: none !important; }
+        .v1, .v2, .v3, .r0 { display: none; }
+      }
+    </style>
+  </defs>
+  <rect x="0.5" y="0.5" width="899" height="55" rx="14" fill="#0F172A" stroke="#1E293B"/>
+  <text x="30" y="35" class="mono" font-size="19" font-weight="700" fill="#2DD4BF">❯</text>
+  <g class="v0">
+    <text x="70" y="35" class="mono" font-size="19" fill="#CBD5E1" textLength="581.4" lengthAdjust="spacingAndGlyphs">building REST APIs with Node.js, NestJS and Express</text>
+    <g class="r0">
+      <rect x="70" y="12" width="814" height="32" fill="#0F172A"/>
+      <rect class="cur" x="71" y="16" width="10" height="24" fill="#2DD4BF"/>
+    </g>
+  </g>
+  <g class="v1">
+    <text x="70" y="35" class="mono" font-size="19" fill="#CBD5E1" textLength="410.4" lengthAdjust="spacingAndGlyphs">designing multi-tenant SaaS backends</text>
+    <g class="r1">
+      <rect x="70" y="12" width="814" height="32" fill="#0F172A"/>
+      <rect class="cur" x="71" y="16" width="10" height="24" fill="#2DD4BF"/>
+    </g>
+  </g>
+  <g class="v2">
+    <text x="70" y="35" class="mono" font-size="19" fill="#CBD5E1" textLength="604.2" lengthAdjust="spacingAndGlyphs">shipping Java / Spring Boot and ASP.NET Core services</text>
+    <g class="r2">
+      <rect x="70" y="12" width="814" height="32" fill="#0F172A"/>
+      <rect class="cur" x="71" y="16" width="10" height="24" fill="#2DD4BF"/>
+    </g>
+  </g>
+  <g class="v3">
+    <text x="70" y="35" class="mono" font-size="19" fill="#CBD5E1" textLength="570.0" lengthAdjust="spacingAndGlyphs">modelling data in PostgreSQL, SQL Server and MySQL</text>
+    <g class="r3">
+      <rect x="70" y="12" width="814" height="32" fill="#0F172A"/>
+      <rect class="cur" x="71" y="16" width="10" height="24" fill="#2DD4BF"/>
+    </g>
+  </g>
+</svg>
