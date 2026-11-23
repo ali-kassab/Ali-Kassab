@@ -109,7 +109,7 @@ Social network REST API: posts, comments, likes, follows, a personalised feed, s
 
 <div align="center">
 
-<a href="https://github.com/ali-kassab?tab=repositories"><img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-kassab&layout=compact&langs_count=6&hide_border=true&border_radius=14&bg_color=0B1020&title_color=22D3EE&text_color=CBD5E1&hide=css,scss,html,tsql" alt="Most used languages across my public repositories: Java and TypeScript, then C# and JavaScript" /></a>
+<a href="https://github.com/ali-kassab?tab=repositories"><img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-kassab&layout=compact&langs_count=6&hide_border=true&border_radius=14&bg_color=0B1020&title_color=22D3EE&text_color=CBD5E1&hide=css,scss,html,tsql&disable_animations=true" alt="Most used languages across my public repositories: Java and TypeScript, then C# and JavaScript" /></a>
 
 <sub>Language share across my public repositories (styling and markup files excluded). If the card does not load, browse my <a href="https://github.com/ali-kassab?tab=repositories">repositories</a> directly.</sub>
 
