@@ -105,16 +105,13 @@ Social network REST API: posts, comments, likes, follows, a personalised feed, s
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-## GitHub activity
+## Code at a glance
 
 <div align="center">
 
-<a href="https://github.com/ali-kassab?tab=repositories"><img height="165" src="https://github-readme-stats.vercel.app/api?username=ali-kassab&show_icons=true&hide_border=true&border_radius=14&bg_color=0B1020&title_color=22D3EE&icon_color=8B5CF6&text_color=CBD5E1&ring_color=22D3EE" alt="Ali's GitHub stats" /></a>
-<a href="https://github.com/ali-kassab?tab=repositories"><img height="165" src="https://streak-stats.demolab.com/?user=ali-kassab&hide_border=true&border_radius=14&background=0B1020&ring=22D3EE&fire=8B5CF6&currStreakLabel=22D3EE&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8&stroke=1E293B" alt="Contribution streak" /></a>
+<a href="https://github.com/ali-kassab?tab=repositories"><img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-kassab&layout=compact&langs_count=6&hide_border=true&border_radius=14&bg_color=0B1020&title_color=22D3EE&text_color=CBD5E1&hide=css,scss,html,tsql" alt="Most used languages across my public repositories: Java and TypeScript, then C# and JavaScript" /></a>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ali-kassab&bg_color=0B1020&color=CBD5E1&line=22D3EE&point=8B5CF6&area=true&area_color=22D3EE&hide_border=true&radius=14&title_color=F8FAFC" alt="Contribution activity graph" />
-
-<sub>Stats count public activity only. If a card does not load, see my <a href="https://github.com/ali-kassab?tab=repositories">repositories</a> directly.</sub>
+<sub>Language share across my public repositories (styling and markup files excluded). If the card does not load, browse my <a href="https://github.com/ali-kassab?tab=repositories">repositories</a> directly.</sub>
 
 </div>
 
