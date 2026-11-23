@@ -82,7 +82,7 @@ A social network REST API: posts, comments, likes, follows, a personalised feed,
 
 ## Tech stack
 
-| | |
+| Area | Stack |
 |:--|:--|
 | **Languages** | <img src="https://skillicons.dev/icons?i=ts,js,java,cs&theme=dark" height="40" alt="TypeScript, JavaScript, Java, C#" /> |
 | **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,dotnet&theme=dark" height="40" alt="Node.js, Express, NestJS, Spring Boot, .NET" /> |
@@ -93,6 +93,7 @@ A social network REST API: posts, comments, likes, follows, a personalised feed,
 **Depth, honestly:** Node.js / Express / NestJS professionally · Java / Spring Boot in freelance and project work · C# / ASP.NET Core in project work.
 
 **Also worked with:** `Spring Security` `Spring Data JPA` `Hibernate` `EF Core` `OpenAPI / Swagger` `Socket.IO` `SSE` `Stripe` `Twilio` `JUnit 5` `Mockito` `Testcontainers` `Jest` `xUnit` `Playwright`
+
 **Ops exposure:** `Kubernetes` `Terraform` `Prometheus` `Grafana` `Loki` · incident handling and root-cause analysis in application support
 
 <img src="./assets/divider.svg" width="100%" alt="" />
